@@ -1,4 +1,4 @@
-package com.appspring.app;
+package com.appEscriptori.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
